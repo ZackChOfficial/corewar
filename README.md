@@ -1,3 +1,5 @@
+Core War is a 1984 programming game created by D. G. Jones and A. K. Dewdney in which two or more battle programs compete for control of a virtual computer. These battle programs are written in an abstract assembly language called Redcode.(Wikipedia)
+
 ## This project can be broken down into three distinctive parts: ##
 
   * **The assembler**: this is the program that will compile champions and translate them from the language written them in (assembly language) into “Bytecode”. Bytecode is a machine code, which will be directly interpreted by the virtual machine.
