@@ -6,7 +6,7 @@
 #    By: mmaaouni <marvin@42.fr>                    +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2019/07/31 16:28:45 by mmaaouni          #+#    #+#              #
-#    Updated: 2019/07/31 21:28:23 by aalaoui-         ###   ########.fr        #
+#    Updated: 2021/01/30 16:31:48 by zchatoua         ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
@@ -41,7 +41,7 @@ OBJ_COREWAR = $(FILE_COREWAR:.c=.o)
 OBJ_VISU = $(FILE_VISU:.c=.o)
 OBJ_DSM = $(FILE_DSM:.c=.o)
 OBJ_ASM = $(FILES_ASM:.c=.o)
-LIB = libft/libft.a
+LIB = libft/libft.a 
 DIR = libft
 
 all: $(NAME1) $(NAME2) $(NAME3) $(NAME4)
