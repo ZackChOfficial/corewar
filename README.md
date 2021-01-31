@@ -15,9 +15,9 @@ Core War is a 1984 programming game created by D. G. Jones and A. K. Dewdney in 
 
 ## Compiling ##
 
-  Before you start compiling, make sure that sdl2 is installed in your machine and update folder lib with your lib files.
+  Before you start, make sure that sdl2 is installed in your machine and update folder lib with your lib files.
 
-  ### To compile the 4 programs: ##
+  ### To compile: ##
   ```
   make
   ```
